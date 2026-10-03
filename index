@@ -165,10 +165,10 @@
             <!-- TERMS OF SERVICE -->
             <div id="tos" class="tab-content active">
                 <h2>1. Acceptance of Terms</h2>
-                <p>By accessing or using [Your Application Name] ("Service"), including our Discord bot and associated web features, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the Service.</p>
+                <p>By accessing or using This Service, including our Discord bot and associated web features, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the Service.</p>
 
                 <h2>2. Description of Service</h2>
-                <p>[Your Application Name] provides entertainment services, including virtual mini-games (e.g., Blackjack, Poker) and virtual economy features. All currency, points, or balances within the Service are purely virtual and have no real-world monetary value.</p>
+                <p>This bot provides entertainment services, including virtual mini-games (e.g., Blackjack, Poker) and virtual economy features. All currency, points, or balances within the Service are purely virtual and have no real-world monetary value.</p>
 
                 <h2>3. Virtual Currency and Items</h2>
                 <ul>
@@ -227,7 +227,7 @@
         </div>
 
         <div class="footer">
-            <p>&copy; 2026 [Your Application Name]. All rights reserved.</p>
+            <p>&copy; 2026 Clipper.AI . All rights reserved.</p>
         </div>
     </div>
 
